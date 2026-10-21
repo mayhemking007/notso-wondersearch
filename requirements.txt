@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+typer==0.15.3
+click==8.1.8
+transformers==4.51.3
+sentence-transformers==4.1.0
+torch==2.6.0
+sentencepiece==0.2.0
+PyMuPDF==1.25.5
+ir-measures==0.3.7
+certifi==2026.10.19

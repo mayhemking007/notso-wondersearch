@@ -1,0 +1,4 @@
+Database backup and recovery
+
+Create regular database backups and test restoring them. Keep recovery copies
+on independent storage. A transaction log can support point-in-time recovery.
